@@ -1,0 +1,179 @@
+:root {
+    --neutral-light: #6C6C6C; /* Lightest neutral */
+    --neutral-medium: #5A5A5A; /* Medium neutral tone */
+    --highlight-muted: #525252; /* Muted highlight */
+    --accent-purple: #464646; /* Purple tone */
+    --accent-red: #424242; /* Red tone */
+    --accent-maroon: #3A3A3A; /* Maroon tone */
+    --accent-orange: #323232; /* Orange/peach highlight */
+    --accent-yellow: #505050; /* Yellow tone */
+    --accent-green: #444444; /* Green tone */
+    --accent-teal: #3A3A3A; /* Teal tone */
+    --accent-sky: #2A2A2A; /* Sky blue tone */
+    --accent-blue-dark: #242424; /* Dark blue highlight */
+    --accent-blue-deep: #1A1A1A; /* Deep blue */
+    --accent-lavender: #181818; /* Lavender hue */
+    --text-color: #808080; /* General foreground color */
+    --subtext-light: #424242; /* Slightly muted subtext */
+    --subtext-dark: #3A3A3A; /* Darker subtext */
+    --overlay-light: #323232; /* Lighter overlay */
+    --overlay-medium: #2A2A2A; /* Medium overlay */
+    --overlay-dark: #1A1A1A; /* Dark overlay */
+    --surface-dark: #101010; /* Darker surface tone */
+    --surface-medium: #0E0E0E; /* Background-similar surface */
+    --surface-light: #0C0C0C; /* Lightest surface */
+    --background: #0E0E0E; /* Base background */
+}
+
+* {
+    font-size: 12px;
+    color: var(--text-color);
+    font-weight: 700;
+    font-family: "JetBrainsMono NFP";
+    margin: 0;
+    padding: 0;
+}
+
+.yasb-bar {
+    background-color: var(--background);
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}
+
+/* Widgets */
+.widget {
+    padding: 0 8px;
+    margin: 0;
+}
+
+.widget .label {
+    padding: 2px 2px 1px 2px;
+}
+
+.widget .label.alt {
+    padding: 1px 8px 1px 8px;
+}
+
+/* Clock Widget */
+.clock-widget .label {
+    padding-left: 8px;
+}
+
+/* Komorebi Workspaces */
+.komorebi-workspaces {
+    margin: 0 5px;
+    padding: 0;
+}
+
+.komorebi-workspaces .offline-status {
+    color: var(--neutral-medium);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 0 4px;
+}
+
+.komorebi-workspaces .ws-btn {
+    border: none;
+    margin: 0 2px;
+    font-size: 12px;
+    color: var(--subtext-light);
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.komorebi-workspaces .ws-btn:hover {
+    background-color: var(--overlay-medium);
+    color: var(--neutral-light);
+}
+
+.komorebi-workspaces .ws-btn.populated {
+    color: var(--neutral-light);
+}
+
+.komorebi-workspaces .ws-btn.active {
+    color: var(--accent-blue-deep);
+    background-color: var(--text-color);
+    width: 48px;
+}
+
+/* Media Widget */
+.media-widget .label {
+    color: var(--accent-lavender);
+    padding: 0px;
+    padding-right: 16px;
+}
+
+.media-widget .btn {
+    color: var(--overlay-medium);
+    padding: 0;
+    margin: 4px 0;
+    font-family: Segoe Fluent Icons;
+}
+
+.media-widget .btn:hover {
+    color: var(--subtext-dark);
+}
+
+.media-widget .btn.disabled:hover,
+.media-widget .btn.disabled {
+    color: var(--surface-medium);
+    background-color: transparent;
+}
+
+/* Volume Widget */
+.volume-widget .icon {
+    font-size: 15px;
+    color: var(--accent-blue-dark);
+    margin: 1px 3px 1px 0px;
+}
+
+/* Start Menu */
+.start-menu .icon {
+    font-size: 18px;
+    color: var(--accent-blue-dark);
+}
+
+/* Weather Widget */
+.weather-widget .icon {
+    font-size: 16px;
+    margin: 0 2px 0px 0;
+}
+
+.weather-widget .icon.sunnyDay {
+    color: var(--accent-yellow);
+}
+
+.weather-widget .icon.clearNight {
+    color: var(--accent-blue-dark);
+    font-size: 20px;
+    margin: -1px 2px 0px 0;
+}
+
+.weather-widget .icon.rainyNight {
+    font-size: 16px;
+}
+
+/* Update Check Widget */
+.update-check-widget .widget-container.winget,
+.update-check-widget .widget-container.windows {
+    background: var(--text-color);
+    margin: 7px 2px;
+    border-radius: 10px;
+    border: 0px solid var(--text-color);
+}
+
+.update-check-widget .widget-container.winget .icon,
+.update-check-widget .widget-container.windows .icon {
+    color: var(--background);
+    margin: 0 2px 0 6px;
+}
+
+.update-check-widget .widget-container.winget .label,
+.update-check-widget .widget-container.windows .label {
+    margin: 0 6px 0 1px;
+    color: var(--background);
+    font-weight: 900;
+    font-size: 14px;
+}

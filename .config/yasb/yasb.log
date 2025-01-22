@@ -1,0 +1,1233 @@
+2025-01-16 09:35:14 INFO log.py:21: Yasb v1.5.3
+2025-01-16 09:35:14 INFO config.py:59: Created default config file at C:\Users\user\.config\yasb\config.yaml
+2025-01-16 09:35:14 INFO config.py:73: Created default stylesheet at C:\Users\user\.config\yasb\styles.css
+2025-01-16 09:35:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 09:35:17 INFO weather.py:340: Fetched new weather data at 2025-01-16 09:35:17.004515
+2025-01-16 09:35:17 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 09:35:17 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 36px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 09:35:17 INFO event_listener.py:52: Created named pipe yasb-0d0f4c59-d3d4-11ef-9d0f-005056c00008
+2025-01-16 09:35:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-0d0f4c59-d3d4-11ef-9d0f-005056c00008
+2025-01-16 09:35:17 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 09:35:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 09:35:17 DEBUG _windows.py:192: Thread started
+2025-01-16 09:35:17 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-0d0f4c59-d3d4-11ef-9d0f-005056c00008
+2025-01-16 09:37:36 INFO log.py:21: Yasb v1.5.3
+2025-01-16 09:37:36 INFO weather.py:340: Fetched new weather data at 2025-01-16 09:37:36.653370
+2025-01-16 09:37:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 09:37:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 09:37:36 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 09:37:37 INFO event_listener.py:52: Created named pipe yasb-601e07c9-d3d4-11ef-878f-005056c00008
+2025-01-16 09:37:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-601e07c9-d3d4-11ef-878f-005056c00008
+2025-01-16 09:37:37 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 09:37:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 09:37:37 DEBUG _windows.py:192: Thread started
+2025-01-16 09:37:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-601e07c9-d3d4-11ef-878f-005056c00008
+2025-01-16 09:37:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:44:02 INFO log.py:21: Yasb v1.5.3
+2025-01-16 09:44:02 INFO weather.py:340: Fetched new weather data at 2025-01-16 09:44:02.206960
+2025-01-16 09:44:02 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 09:44:02 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 09:44:02 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 09:44:02 INFO event_listener.py:52: Created named pipe yasb-45ee7f27-d3d5-11ef-8d07-005056c00008
+2025-01-16 09:44:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-45ee7f27-d3d5-11ef-8d07-005056c00008
+2025-01-16 09:44:02 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 09:44:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 09:44:02 DEBUG _windows.py:192: Thread started
+2025-01-16 09:44:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-45ee7f27-d3d5-11ef-8d07-005056c00008
+2025-01-16 09:48:50 INFO log.py:21: Yasb v1.5.3
+2025-01-16 09:48:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 09:48:50.206007
+2025-01-16 09:48:50 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 09:48:50 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 09:48:50 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 32px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 09:48:50 INFO event_listener.py:52: Created named pipe yasb-f1947946-d3d5-11ef-ae16-005056c00008
+2025-01-16 09:48:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f1947946-d3d5-11ef-ae16-005056c00008
+2025-01-16 09:48:50 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 09:48:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 09:48:50 DEBUG _windows.py:192: Thread started
+2025-01-16 09:48:50 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f1947946-d3d5-11ef-ae16-005056c00008
+2025-01-16 09:50:18 INFO tray.py:158: Created shortcut at C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-01-16 09:53:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:53:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:53:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:54:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:54:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:55:04 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:55:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:18 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:41 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:57:58 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:22 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:58:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 09:58:50.212392
+2025-01-16 09:58:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:27 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 09:59:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:07 ERROR config.py:116: The file 'C:\Users\user\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#e6db449d', 50, 23)
+2025-01-16 10:00:07 ERROR config.py:116: The file 'C:\Users\user\.config\yasb\styles.css' contains Syntax Error(s). Please fix:
+PropertyValue: Missing token for production Choice(ColorValue, Dimension, URIValue, Value, variable, MSValue, CSSCalc, function): ('HASH', '#e6db449d', 50, 23)
+2025-01-16 10:00:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:50 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:00:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:22 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:30 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:01:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:02:05 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:02:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:02:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:02:33 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:02:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:03:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:04:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:04:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:07 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:05:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:06:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:06:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:06:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:06:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:06:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:21 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:29 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:42 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:07:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:11 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:47 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:08:50.231786
+2025-01-16 10:08:50 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:08:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:10:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:18:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:18:50.230468
+2025-01-16 10:28:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:28:50.225797
+2025-01-16 10:38:22 INFO log.py:21: Yasb v1.5.3
+2025-01-16 10:38:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 10:38:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:38:22.572325
+2025-01-16 10:38:22 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 10:38:22 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 10:38:23 INFO event_listener.py:52: Created named pipe yasb-dd4296aa-d3dc-11ef-b4c9-005056c00008
+2025-01-16 10:38:23 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-dd4296aa-d3dc-11ef-b4c9-005056c00008
+2025-01-16 10:38:23 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 10:38:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 10:38:23 DEBUG _windows.py:192: Thread started
+2025-01-16 10:38:23 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-dd4296aa-d3dc-11ef-b4c9-005056c00008
+2025-01-16 10:38:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:39:54 INFO log.py:21: Yasb v1.5.3
+2025-01-16 10:39:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 10:39:54 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:39:54.998000
+2025-01-16 10:39:55 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 10:39:55 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 42px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 10:39:55 INFO event_listener.py:52: Created named pipe yasb-14506deb-d3dd-11ef-841d-005056c00008
+2025-01-16 10:39:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-14506deb-d3dd-11ef-841d-005056c00008
+2025-01-16 10:39:55 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 10:39:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 10:39:55 DEBUG _windows.py:192: Thread started
+2025-01-16 10:39:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-14506deb-d3dd-11ef-841d-005056c00008
+2025-01-16 10:41:17 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:41:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:41:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:41:53 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:41:55 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:42:14 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:42:19 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:42:24 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 10:42:49 INFO log.py:21: Yasb v1.5.3
+2025-01-16 10:42:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 10:42:49 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:42:49.784580
+2025-01-16 10:42:49 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 10:42:49 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 10:42:50 INFO event_listener.py:52: Created named pipe yasb-7c8139ea-d3dd-11ef-a83e-005056c00008
+2025-01-16 10:42:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7c8139ea-d3dd-11ef-a83e-005056c00008
+2025-01-16 10:42:50 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 10:42:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 10:42:50 DEBUG _windows.py:192: Thread started
+2025-01-16 10:42:50 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7c8139ea-d3dd-11ef-a83e-005056c00008
+2025-01-16 10:52:49 INFO weather.py:340: Fetched new weather data at 2025-01-16 10:52:49.771187
+2025-01-16 11:02:49 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:02:49.772183
+2025-01-16 11:06:29 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-16 11:06:29 DEBUG _windows.py:201: Exiting thread
+2025-01-16 11:06:29 DEBUG _windows.py:75: Closing
+2025-01-16 11:07:53 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:07:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:07:57 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:07:57.383090
+2025-01-16 11:07:57 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:07:57 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:07:58 INFO event_listener.py:52: Created named pipe yasb-ff519f14-d3e0-11ef-aaf1-005056c00008
+2025-01-16 11:07:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ff519f14-d3e0-11ef-aaf1-005056c00008
+2025-01-16 11:07:58 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:07:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:07:58 DEBUG _windows.py:192: Thread started
+2025-01-16 11:07:58 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ff519f14-d3e0-11ef-aaf1-005056c00008
+2025-01-16 11:17:57 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:17:57.380816
+2025-01-16 11:27:57 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:27:57.381629
+2025-01-16 11:35:59 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:36:00 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:36:00 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:36:00.324678
+2025-01-16 11:36:00 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:36:00 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:36:00 INFO event_listener.py:52: Created named pipe yasb-ea3c7783-d3e4-11ef-8513-005056c00008
+2025-01-16 11:36:00 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ea3c7783-d3e4-11ef-8513-005056c00008
+2025-01-16 11:36:00 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:36:00 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:36:00 DEBUG _windows.py:192: Thread started
+2025-01-16 11:36:00 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ea3c7783-d3e4-11ef-8513-005056c00008
+2025-01-16 11:36:14 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 14
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 30
+2025-01-16 11:36:14 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 14
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 30
+2025-01-16 11:36:14 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 14
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\user\.config\yasb\config.yaml", line 38, column 30
+2025-01-16 11:36:22 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:36:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:36:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:36:22.476345
+2025-01-16 11:36:22 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:36:22 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:36:22 INFO event_listener.py:52: Created named pipe yasb-f76d09f9-d3e4-11ef-affe-005056c00008
+2025-01-16 11:36:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f76d09f9-d3e4-11ef-affe-005056c00008
+2025-01-16 11:36:22 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:36:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:36:22 DEBUG _windows.py:192: Thread started
+2025-01-16 11:36:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f76d09f9-d3e4-11ef-affe-005056c00008
+2025-01-16 11:36:47 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:36:47 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:36:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:36:47.870403
+2025-01-16 11:36:47 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:36:47 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:36:48 INFO event_listener.py:52: Created named pipe yasb-06926551-d3e5-11ef-8f09-005056c00008
+2025-01-16 11:36:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-06926551-d3e5-11ef-8f09-005056c00008
+2025-01-16 11:36:48 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:36:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:36:48 DEBUG _windows.py:192: Thread started
+2025-01-16 11:36:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-06926551-d3e5-11ef-8f09-005056c00008
+2025-01-16 11:37:09 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:37:09 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:37:09 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:37:09.837645
+2025-01-16 11:37:09 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:37:09 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:37:10 INFO event_listener.py:52: Created named pipe yasb-13a5ee0c-d3e5-11ef-b4cf-005056c00008
+2025-01-16 11:37:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-13a5ee0c-d3e5-11ef-b4cf-005056c00008
+2025-01-16 11:37:10 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:37:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:37:10 DEBUG _windows.py:192: Thread started
+2025-01-16 11:37:10 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-13a5ee0c-d3e5-11ef-b4cf-005056c00008
+2025-01-16 11:37:22 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:37:22 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:37:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:37:22.405003
+2025-01-16 11:37:22 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:37:22 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:37:22 INFO event_listener.py:52: Created named pipe yasb-1b256ce6-d3e5-11ef-928d-005056c00008
+2025-01-16 11:37:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1b256ce6-d3e5-11ef-928d-005056c00008
+2025-01-16 11:37:22 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:37:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:37:22 DEBUG _windows.py:192: Thread started
+2025-01-16 11:37:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1b256ce6-d3e5-11ef-928d-005056c00008
+2025-01-16 11:37:35 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:37:35 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:37:36 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:37:36.190596
+2025-01-16 11:37:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:37:36 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:37:36 INFO event_listener.py:52: Created named pipe yasb-235f0c68-d3e5-11ef-bbae-005056c00008
+2025-01-16 11:37:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-235f0c68-d3e5-11ef-bbae-005056c00008
+2025-01-16 11:37:36 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:37:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:37:36 DEBUG _windows.py:192: Thread started
+2025-01-16 11:37:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-235f0c68-d3e5-11ef-bbae-005056c00008
+2025-01-16 11:39:42 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:39:42 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:39:42 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:39:42.425702
+2025-01-16 11:39:42 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:39:42 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:39:42 INFO event_listener.py:52: Created named pipe yasb-6e975f8c-d3e5-11ef-9c9c-005056c00008
+2025-01-16 11:39:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6e975f8c-d3e5-11ef-9c9c-005056c00008
+2025-01-16 11:39:42 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:39:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:39:42 DEBUG _windows.py:192: Thread started
+2025-01-16 11:39:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6e975f8c-d3e5-11ef-9c9c-005056c00008
+2025-01-16 11:40:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:40:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:40:43 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:40:44 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:40:55 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:40:59 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:41:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:42:26 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:43:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:43:37 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:44:25 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:44:34 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:44:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:44:57 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\user\.config\yasb\config.yaml", line 36, column 14
+2025-01-16 11:44:57 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\user\.config\yasb\config.yaml", line 36, column 14
+2025-01-16 11:44:57 ERROR config.py:99: The file 'C:\Users\user\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow node
+expected the node content, but found ','
+  in "C:\Users\user\.config\yasb\config.yaml", line 36, column 14
+2025-01-16 11:44:58 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:44:58 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:44:59 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:44:59.150455
+2025-01-16 11:44:59 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:44:59 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:44:59 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:44:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:44:59 DEBUG _windows.py:192: Thread started
+2025-01-16 11:45:01 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:45:02 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:45:02 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:45:02.240633
+2025-01-16 11:45:02 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:45:02 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:45:02 INFO event_listener.py:52: Created named pipe yasb-2d37ccb8-d3e6-11ef-9d59-005056c00008
+2025-01-16 11:45:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2d37ccb8-d3e6-11ef-9d59-005056c00008
+2025-01-16 11:45:02 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:45:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:45:02 DEBUG _windows.py:192: Thread started
+2025-01-16 11:45:02 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2d37ccb8-d3e6-11ef-9d59-005056c00008
+2025-01-16 11:45:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:45:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:46:15 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:46:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:46:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [30:5: margin]
+2025-01-16 11:46:57 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:46:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [30:5: margin]
+2025-01-16 11:47:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [30:5: margin]
+2025-01-16 11:47:00 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:47:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [30:5: margin]
+2025-01-16 11:47:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 1 [30:5: margin]
+2025-01-16 11:47:01 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [30:5: margin]
+2025-01-16 11:47:01 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:47:01 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [30:5: margin]
+2025-01-16 11:47:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:47:10 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:47:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:47:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:47:39 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:47:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:47:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:47:40 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:47:40.200016
+2025-01-16 11:47:40 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:47:40 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:47:40 INFO event_listener.py:52: Created named pipe yasb-8b5fcb18-d3e6-11ef-acd2-005056c00008
+2025-01-16 11:47:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8b5fcb18-d3e6-11ef-acd2-005056c00008
+2025-01-16 11:47:40 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:47:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:47:40 DEBUG _windows.py:192: Thread started
+2025-01-16 11:47:40 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8b5fcb18-d3e6-11ef-acd2-005056c00008
+2025-01-16 11:47:59 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:47:59 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:47:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:47:59 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:47:59.543050
+2025-01-16 11:47:59 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:47:59 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:47:59 INFO event_listener.py:52: Created named pipe yasb-96e52768-d3e6-11ef-b6f7-005056c00008
+2025-01-16 11:47:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-96e52768-d3e6-11ef-b6f7-005056c00008
+2025-01-16 11:47:59 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:47:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:47:59 DEBUG _windows.py:192: Thread started
+2025-01-16 11:48:00 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-96e52768-d3e6-11ef-b6f7-005056c00008
+2025-01-16 11:48:00 ERROR main.py:72: Unhandled exception
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\komorebi\workspaces.py", line 322, in _add_or_update_buttons
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\widgets\komorebi\workspaces.py", line 214, in _on_komorebi_connect_event
+  File "D:\a\yasb\yasb\src\core\widgets\komorebi\workspaces.py", line 325, in _add_or_update_buttons
+  File "D:\a\yasb\yasb\src\core\widgets\komorebi\workspaces.py", line 364, in _try_add_workspace_button
+  File "D:\a\yasb\yasb\src\core\widgets\komorebi\workspaces.py", line 340, in _get_workspace_label
+KeyError: 'name'
+2025-01-16 11:48:23 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:48:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:48:23 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:48:23 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:48:23.489452
+2025-01-16 11:48:23 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:48:23 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:48:23 INFO event_listener.py:52: Created named pipe yasb-a52dd4be-d3e6-11ef-adf6-005056c00008
+2025-01-16 11:48:23 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a52dd4be-d3e6-11ef-adf6-005056c00008
+2025-01-16 11:48:23 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:48:23 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:48:23 DEBUG _windows.py:192: Thread started
+2025-01-16 11:48:23 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a52dd4be-d3e6-11ef-adf6-005056c00008
+2025-01-16 11:51:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:51:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:51:04 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-16 11:51:04 DEBUG _windows.py:201: Exiting thread
+2025-01-16 11:51:04 DEBUG _windows.py:75: Closing
+2025-01-16 11:52:17 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:52:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:52:17 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:52:20 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:52:20.195328
+2025-01-16 11:52:20 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:52:20 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:52:21 INFO event_listener.py:52: Created named pipe yasb-32737893-d3e7-11ef-9ad9-005056c00008
+2025-01-16 11:52:21 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-32737893-d3e7-11ef-9ad9-005056c00008
+2025-01-16 11:52:21 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:52:21 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:52:21 DEBUG _windows.py:192: Thread started
+2025-01-16 11:52:21 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-32737893-d3e7-11ef-9ad9-005056c00008
+2025-01-16 11:53:20 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:53:22 ERROR bar_manager.py:53: Error loading config: document is missing
+2025-01-16 11:53:25 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:53:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:53:32 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:53:32.322442
+2025-01-16 11:53:32 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:53:32 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:53:33 INFO event_listener.py:52: Created named pipe yasb-5d6eb40d-d3e7-11ef-870e-005056c00008
+2025-01-16 11:53:33 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5d6eb40d-d3e7-11ef-870e-005056c00008
+2025-01-16 11:53:33 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:53:33 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:53:33 DEBUG _windows.py:192: Thread started
+2025-01-16 11:53:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-5d6eb40d-d3e7-11ef-870e-005056c00008
+2025-01-16 11:54:34 INFO log.py:21: Yasb v1.5.3
+2025-01-16 11:54:34 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 11:54:34 INFO weather.py:340: Fetched new weather data at 2025-01-16 11:54:34.998406
+2025-01-16 11:54:35 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 11:54:35 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 11:54:36 INFO event_listener.py:52: Created named pipe yasb-83022168-d3e7-11ef-9407-005056c00008
+2025-01-16 11:54:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-83022168-d3e7-11ef-9407-005056c00008
+2025-01-16 11:54:36 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 11:54:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 11:54:36 DEBUG _windows.py:192: Thread started
+2025-01-16 11:54:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-83022168-d3e7-11ef-9407-005056c00008
+2025-01-16 11:54:49 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:54:49 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:54:49 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:54:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:54:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:54:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:23 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:55:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:23 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:36 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:55:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:55:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:55:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [42:5: padding]
+2025-01-16 11:56:32 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:56:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 2 [42:5: padding]
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [42:5: padding]
+2025-01-16 11:56:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [42:5: padding]
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [42:5: padding]
+2025-01-16 11:56:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 10 [42:5: padding]
+2025-01-16 11:56:40 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:56:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:40 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 10 [42:5: padding]
+2025-01-16 11:56:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:56:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:56:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:56:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:57:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:57:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:57:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:07 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:08 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:58:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:08 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:35 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:58:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:45 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:58:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:58:54 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:58:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:59:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:59:03 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:59:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:59:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:59:28 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 11:59:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 11:59:28 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:00:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:00:46 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-16 12:00:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:00:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:00:54 INFO log.py:21: Yasb v1.5.3
+2025-01-16 12:00:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:00:54 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 12:00:54 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:00:54.766282
+2025-01-16 12:00:54 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 12:00:54 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 12:00:55 INFO event_listener.py:52: Created named pipe yasb-64f82dc1-d3e8-11ef-94ab-005056c00008
+2025-01-16 12:00:55 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-64f82dc1-d3e8-11ef-94ab-005056c00008
+2025-01-16 12:00:55 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 12:00:55 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 12:00:55 DEBUG _windows.py:192: Thread started
+2025-01-16 12:00:55 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-64f82dc1-d3e8-11ef-94ab-005056c00008
+2025-01-16 12:02:11 INFO log.py:21: Yasb v1.5.3
+2025-01-16 12:02:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:02:11 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 12:02:11 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:02:11.709868
+2025-01-16 12:02:11 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 12:02:11 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 12:02:12 INFO event_listener.py:52: Created named pipe yasb-92d437f6-d3e8-11ef-8400-005056c00008
+2025-01-16 12:02:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-92d437f6-d3e8-11ef-8400-005056c00008
+2025-01-16 12:02:12 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 12:02:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 12:02:12 DEBUG _windows.py:192: Thread started
+2025-01-16 12:02:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-92d437f6-d3e8-11ef-8400-005056c00008
+2025-01-16 12:02:46 INFO log.py:21: Yasb v1.5.3
+2025-01-16 12:02:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:02:46 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 12:02:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:02:47.059711
+2025-01-16 12:02:47 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 12:02:47 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 12:02:47 INFO event_listener.py:52: Created named pipe yasb-a7e6b157-d3e8-11ef-a34b-005056c00008
+2025-01-16 12:02:47 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a7e6b157-d3e8-11ef-a34b-005056c00008
+2025-01-16 12:02:47 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 12:02:47 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 12:02:47 DEBUG _windows.py:192: Thread started
+2025-01-16 12:02:47 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a7e6b157-d3e8-11ef-a34b-005056c00008
+2025-01-16 12:09:10 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:11 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:12 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:09:12 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:12:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:12:47.076312
+2025-01-16 12:22:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:34 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 12:22:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:22:47.068352
+2025-01-16 12:32:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:32:47.077529
+2025-01-16 12:37:11 INFO log.py:21: Yasb v1.5.3
+2025-01-16 12:37:11 ERROR main.py:82: Another instance of the YASB is already running.
+2025-01-16 12:42:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:42:47.081627
+2025-01-16 12:52:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 12:52:47.097073
+2025-01-16 13:02:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:02:47.084324
+2025-01-16 13:12:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:12:47.087514
+2025-01-16 13:22:47 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:22:47.084541
+2025-01-16 13:28:02 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:28:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:28:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:28:04 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:28:04.480056
+2025-01-16 13:28:04 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:28:04 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:28:05 INFO event_listener.py:52: Created named pipe yasb-9279507f-d3f4-11ef-b5f3-005056c00008
+2025-01-16 13:28:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9279507f-d3f4-11ef-b5f3-005056c00008
+2025-01-16 13:28:05 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:28:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:28:05 DEBUG _windows.py:192: Thread started
+2025-01-16 13:28:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9279507f-d3f4-11ef-b5f3-005056c00008
+2025-01-16 13:30:49 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:30:49 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:30:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:30:50 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:30:50.173415
+2025-01-16 13:30:50 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:30:50 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:30:50 INFO event_listener.py:52: Created named pipe yasb-f4e89df2-d3f4-11ef-accd-005056c00008
+2025-01-16 13:30:50 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f4e89df2-d3f4-11ef-accd-005056c00008
+2025-01-16 13:30:50 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:30:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:30:50 DEBUG _windows.py:192: Thread started
+2025-01-16 13:30:50 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f4e89df2-d3f4-11ef-accd-005056c00008
+2025-01-16 13:31:03 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:03 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:03 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:03.921282
+2025-01-16 13:31:03 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:04 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:04 INFO event_listener.py:52: Created named pipe yasb-fd18beef-d3f4-11ef-8338-005056c00008
+2025-01-16 13:31:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-fd18beef-d3f4-11ef-8338-005056c00008
+2025-01-16 13:31:04 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:04 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-fd18beef-d3f4-11ef-8338-005056c00008
+2025-01-16 13:31:07 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:07 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:08 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:08 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:08.278940
+2025-01-16 13:31:08 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:08 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:08 INFO event_listener.py:52: Created named pipe yasb-ffad2fde-d3f4-11ef-8cf2-005056c00008
+2025-01-16 13:31:08 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ffad2fde-d3f4-11ef-8cf2-005056c00008
+2025-01-16 13:31:08 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:08 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:08 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-ffad2fde-d3f4-11ef-8cf2-005056c00008
+2025-01-16 13:31:38 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:38 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:38 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:38.768142
+2025-01-16 13:31:38 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:38 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:39 INFO event_listener.py:52: Created named pipe yasb-11db12ee-d3f5-11ef-9567-005056c00008
+2025-01-16 13:31:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-11db12ee-d3f5-11ef-9567-005056c00008
+2025-01-16 13:31:39 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:39 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:39 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-11db12ee-d3f5-11ef-9567-005056c00008
+2025-01-16 13:31:48 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:48 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:48 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:48 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:48.904416
+2025-01-16 13:31:48 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:48 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:49 INFO event_listener.py:52: Created named pipe yasb-17e404d2-d3f5-11ef-9066-005056c00008
+2025-01-16 13:31:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-17e404d2-d3f5-11ef-9066-005056c00008
+2025-01-16 13:31:49 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:49 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-17e404d2-d3f5-11ef-9066-005056c00008
+2025-01-16 13:31:51 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:51 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:51 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:51 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:51.904563
+2025-01-16 13:31:51 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:51 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:52 INFO event_listener.py:52: Created named pipe yasb-19a9e800-d3f5-11ef-abc8-005056c00008
+2025-01-16 13:31:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-19a9e800-d3f5-11ef-abc8-005056c00008
+2025-01-16 13:31:52 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:52 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:52 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-19a9e800-d3f5-11ef-abc8-005056c00008
+2025-01-16 13:31:56 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:31:56 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:31:56 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:31:56 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:31:56.998202
+2025-01-16 13:31:57 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:31:57 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:31:57 INFO event_listener.py:52: Created named pipe yasb-1cb4f070-d3f5-11ef-8dc6-005056c00008
+2025-01-16 13:31:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1cb4f070-d3f5-11ef-8dc6-005056c00008
+2025-01-16 13:31:57 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:31:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:31:57 DEBUG _windows.py:192: Thread started
+2025-01-16 13:31:57 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1cb4f070-d3f5-11ef-8dc6-005056c00008
+2025-01-16 13:32:00 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:32:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:32:00 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:32:00 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:32:00.794369
+2025-01-16 13:32:00 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:32:00 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:32:01 INFO event_listener.py:52: Created named pipe yasb-1efa885c-d3f5-11ef-a56f-005056c00008
+2025-01-16 13:32:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1efa885c-d3f5-11ef-a56f-005056c00008
+2025-01-16 13:32:01 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:32:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:32:01 DEBUG _windows.py:192: Thread started
+2025-01-16 13:32:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1efa885c-d3f5-11ef-a56f-005056c00008
+2025-01-16 13:32:07 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:32:07 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:32:07 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:32:08 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:32:08.050053
+2025-01-16 13:32:08 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:32:08 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:32:08 INFO event_listener.py:52: Created named pipe yasb-234f7770-d3f5-11ef-a58b-005056c00008
+2025-01-16 13:32:08 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-234f7770-d3f5-11ef-a58b-005056c00008
+2025-01-16 13:32:08 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:32:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:32:08 DEBUG _windows.py:192: Thread started
+2025-01-16 13:32:08 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-234f7770-d3f5-11ef-a58b-005056c00008
+2025-01-16 13:33:52 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:33:52 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:33:52 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:33:52 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:33:52.394810
+2025-01-16 13:33:52 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:33:52 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:33:52 INFO event_listener.py:52: Created named pipe yasb-617c42a2-d3f5-11ef-a3eb-005056c00008
+2025-01-16 13:33:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-617c42a2-d3f5-11ef-a3eb-005056c00008
+2025-01-16 13:33:52 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:33:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:33:52 DEBUG _windows.py:192: Thread started
+2025-01-16 13:33:52 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-617c42a2-d3f5-11ef-a3eb-005056c00008
+2025-01-16 13:33:52 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:00 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:01 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:01.251639
+2025-01-16 13:34:01 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:01 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:01 INFO event_listener.py:52: Created named pipe yasb-66c5d93e-d3f5-11ef-a4f0-005056c00008
+2025-01-16 13:34:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-66c5d93e-d3f5-11ef-a4f0-005056c00008
+2025-01-16 13:34:01 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:01 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-66c5d93e-d3f5-11ef-a4f0-005056c00008
+2025-01-16 13:34:01 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:05 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:05 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:05 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:05 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:05.966645
+2025-01-16 13:34:05 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:06 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:06 INFO event_listener.py:52: Created named pipe yasb-69942851-d3f5-11ef-9a6e-005056c00008
+2025-01-16 13:34:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-69942851-d3f5-11ef-9a6e-005056c00008
+2025-01-16 13:34:06 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:06 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:06 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-69942851-d3f5-11ef-9a6e-005056c00008
+2025-01-16 13:34:06 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:10 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:10 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:12 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:12 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:25 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:25 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:25 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:25 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:25.860170
+2025-01-16 13:34:25 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:25 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:26 INFO event_listener.py:52: Created named pipe yasb-75728aa1-d3f5-11ef-9458-005056c00008
+2025-01-16 13:34:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-75728aa1-d3f5-11ef-9458-005056c00008
+2025-01-16 13:34:26 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:26 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:26 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-75728aa1-d3f5-11ef-9458-005056c00008
+2025-01-16 13:34:26 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:29 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:29 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:29 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:29.630065
+2025-01-16 13:34:29 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:29 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:30 INFO event_listener.py:52: Created named pipe yasb-77b0f4de-d3f5-11ef-8900-005056c00008
+2025-01-16 13:34:30 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-77b0f4de-d3f5-11ef-8900-005056c00008
+2025-01-16 13:34:30 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:30 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:30 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:30 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-77b0f4de-d3f5-11ef-8900-005056c00008
+2025-01-16 13:34:30 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:33 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:33 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:33 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:33.744009
+2025-01-16 13:34:33 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:33 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:34 INFO event_listener.py:52: Created named pipe yasb-7a254b13-d3f5-11ef-939b-005056c00008
+2025-01-16 13:34:34 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7a254b13-d3f5-11ef-939b-005056c00008
+2025-01-16 13:34:34 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:34 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:34 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7a254b13-d3f5-11ef-939b-005056c00008
+2025-01-16 13:34:37 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:37 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:37 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:37 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:37.364242
+2025-01-16 13:34:37 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:37 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:37 INFO event_listener.py:52: Created named pipe yasb-7c4e813b-d3f5-11ef-bed9-005056c00008
+2025-01-16 13:34:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7c4e813b-d3f5-11ef-bed9-005056c00008
+2025-01-16 13:34:37 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:37 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7c4e813b-d3f5-11ef-bed9-005056c00008
+2025-01-16 13:34:41 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:41 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:41 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:41 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:41.716394
+2025-01-16 13:34:41 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:41 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:42 INFO event_listener.py:52: Created named pipe yasb-7ee64ae0-d3f5-11ef-a6de-005056c00008
+2025-01-16 13:34:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7ee64ae0-d3f5-11ef-a6de-005056c00008
+2025-01-16 13:34:42 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:42 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:42 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-7ee64ae0-d3f5-11ef-a6de-005056c00008
+2025-01-16 13:34:42 ERROR media.py:200: MediaWidget: Error setting thumbnail: y1 must be greater than or equal to y0
+2025-01-16 13:34:45 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:45 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:46 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:46.004627
+2025-01-16 13:34:46 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:46 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:46 INFO event_listener.py:52: Created named pipe yasb-81710ed2-d3f5-11ef-bf12-005056c00008
+2025-01-16 13:34:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-81710ed2-d3f5-11ef-bf12-005056c00008
+2025-01-16 13:34:46 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:46 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-81710ed2-d3f5-11ef-bf12-005056c00008
+2025-01-16 13:34:49 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:34:49 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:34:49 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:34:49 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:34:49.462643
+2025-01-16 13:34:49 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:34:49 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:34:49 INFO event_listener.py:52: Created named pipe yasb-837ffa78-d3f5-11ef-89ed-005056c00008
+2025-01-16 13:34:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-837ffa78-d3f5-11ef-89ed-005056c00008
+2025-01-16 13:34:49 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:34:49 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:34:49 DEBUG _windows.py:192: Thread started
+2025-01-16 13:34:49 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-837ffa78-d3f5-11ef-89ed-005056c00008
+2025-01-16 13:35:17 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:17 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:17 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:17 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:17.726081
+2025-01-16 13:35:17 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:17 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:18 INFO event_listener.py:52: Created named pipe yasb-945d8562-d3f5-11ef-b6fe-005056c00008
+2025-01-16 13:35:18 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-945d8562-d3f5-11ef-b6fe-005056c00008
+2025-01-16 13:35:18 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:18 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:18 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:18 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-945d8562-d3f5-11ef-b6fe-005056c00008
+2025-01-16 13:35:24 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:24 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:24 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:24 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:24.374633
+2025-01-16 13:35:24 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:24 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:24 INFO event_listener.py:52: Created named pipe yasb-98512446-d3f5-11ef-b094-005056c00008
+2025-01-16 13:35:24 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-98512446-d3f5-11ef-b094-005056c00008
+2025-01-16 13:35:24 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:24 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:24 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-98512446-d3f5-11ef-b094-005056c00008
+2025-01-16 13:35:31 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:31 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:31 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:31 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:31.915251
+2025-01-16 13:35:31 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:31 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:32 INFO event_listener.py:52: Created named pipe yasb-9ccdd168-d3f5-11ef-8bcf-005056c00008
+2025-01-16 13:35:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9ccdd168-d3f5-11ef-8bcf-005056c00008
+2025-01-16 13:35:32 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:32 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9ccdd168-d3f5-11ef-8bcf-005056c00008
+2025-01-16 13:35:35 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:35 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:35 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:36 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:36.090136
+2025-01-16 13:35:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:36 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:36 INFO event_listener.py:52: Created named pipe yasb-9f4ba38d-d3f5-11ef-8724-005056c00008
+2025-01-16 13:35:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9f4ba38d-d3f5-11ef-8724-005056c00008
+2025-01-16 13:35:36 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:36 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-9f4ba38d-d3f5-11ef-8724-005056c00008
+2025-01-16 13:35:39 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:39 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:39 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:39.772565
+2025-01-16 13:35:39 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:39 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:40 ERROR widget_builder.py:88: Failed to validate widget(s) due to invalid options  - media
+      thumbnail_padding:
+      - must be of integer type
+      
+2025-01-16 13:35:40 INFO event_listener.py:52: Created named pipe yasb-a17e626f-d3f5-11ef-8cff-005056c00008
+2025-01-16 13:35:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a17e626f-d3f5-11ef-8cff-005056c00008
+2025-01-16 13:35:40 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a17e626f-d3f5-11ef-8cff-005056c00008
+2025-01-16 13:35:41 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:41 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:43 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:43 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:43 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:43 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:43.425893
+2025-01-16 13:35:43 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:43 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:43 INFO event_listener.py:52: Created named pipe yasb-a3ad334d-d3f5-11ef-ad5c-005056c00008
+2025-01-16 13:35:43 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a3ad334d-d3f5-11ef-ad5c-005056c00008
+2025-01-16 13:35:43 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:43 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:43 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a3ad334d-d3f5-11ef-ad5c-005056c00008
+2025-01-16 13:35:45 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:35:45 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:35:45 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:35:45 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:35:45.593737
+2025-01-16 13:35:45 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:35:45 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:35:46 INFO event_listener.py:52: Created named pipe yasb-a4f6533e-d3f5-11ef-8b4d-005056c00008
+2025-01-16 13:35:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a4f6533e-d3f5-11ef-8b4d-005056c00008
+2025-01-16 13:35:46 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:35:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:35:46 DEBUG _windows.py:192: Thread started
+2025-01-16 13:35:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a4f6533e-d3f5-11ef-8b4d-005056c00008
+2025-01-16 13:36:12 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:36:12 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:36:12 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:36:13 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:36:13.046810
+2025-01-16 13:36:13 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:36:13 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:36:13 INFO event_listener.py:52: Created named pipe yasb-b5594dc8-d3f5-11ef-b71b-005056c00008
+2025-01-16 13:36:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b5594dc8-d3f5-11ef-b71b-005056c00008
+2025-01-16 13:36:13 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:36:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:36:13 DEBUG _windows.py:192: Thread started
+2025-01-16 13:36:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b5594dc8-d3f5-11ef-b71b-005056c00008
+2025-01-16 13:38:46 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:38:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:38:46 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:38:46 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:38:46.390657
+2025-01-16 13:38:46 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:38:46 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:38:46 INFO event_listener.py:52: Created named pipe yasb-10bdcf73-d3f6-11ef-8b51-005056c00008
+2025-01-16 13:38:46 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-10bdcf73-d3f6-11ef-8b51-005056c00008
+2025-01-16 13:38:46 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:38:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:38:46 DEBUG _windows.py:192: Thread started
+2025-01-16 13:38:46 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-10bdcf73-d3f6-11ef-8b51-005056c00008
+2025-01-16 13:40:21 INFO log.py:21: Yasb v1.5.3
+2025-01-16 13:40:21 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:21 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-16 13:40:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:40:22.167649
+2025-01-16 13:40:22 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-16 13:40:22 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-16 13:40:22 INFO event_listener.py:52: Created named pipe yasb-49cfc3a8-d3f6-11ef-8a86-005056c00008
+2025-01-16 13:40:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-49cfc3a8-d3f6-11ef-8a86-005056c00008
+2025-01-16 13:40:22 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-16 13:40:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-16 13:40:22 DEBUG _windows.py:192: Thread started
+2025-01-16 13:40:22 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-49cfc3a8-d3f6-11ef-8a86-005056c00008
+2025-01-16 13:40:36 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:37 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:40:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:43:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 13:50:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 13:50:22.165262
+2025-01-16 14:00:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:00:22.174515
+2025-01-16 14:10:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:10:22.173281
+2025-01-16 14:20:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:20:22.168638
+2025-01-16 14:30:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:30:22.165807
+2025-01-16 14:40:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:40:22.190085
+2025-01-16 14:50:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 14:50:22.178506
+2025-01-16 15:00:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:00:22.192205
+2025-01-16 15:10:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:10:22.214694
+2025-01-16 15:20:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:20:22.216249
+2025-01-16 15:30:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:30:22.208379
+2025-01-16 15:40:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:40:22.224722
+2025-01-16 15:50:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 15:50:22.241135
+2025-01-16 16:00:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 16:00:22.243373
+2025-01-16 16:10:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 16:10:22.259761
+2025-01-16 16:20:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 16:20:22.271327
+2025-01-16 16:30:22 INFO weather.py:340: Fetched new weather data at 2025-01-16 16:30:22.280234
+2025-01-16 16:34:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 16:34:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 16:34:46 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-16 16:34:48 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-16 16:34:48 DEBUG _windows.py:201: Exiting thread
+2025-01-16 16:34:48 DEBUG _windows.py:75: Closing
+2025-01-17 08:19:00 INFO log.py:21: Yasb v1.5.3
+2025-01-17 08:19:00 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-17 08:19:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-17 08:19:03 INFO weather.py:340: Fetched new weather data at 2025-01-17 08:19:03.990117
+2025-01-17 08:19:04 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-17 08:19:04 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-17 08:19:04 INFO event_listener.py:52: Created named pipe yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 08:19:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 08:19:04 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-17 08:19:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-17 08:19:04 DEBUG _windows.py:192: Thread started
+2025-01-17 08:19:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 08:29:03 INFO weather.py:340: Fetched new weather data at 2025-01-17 08:29:03.991597
+2025-01-17 08:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 08:39:04.006690
+2025-01-17 08:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 08:49:04.015187
+2025-01-17 08:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 08:59:04.018597
+2025-01-17 09:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:09:04.005668
+2025-01-17 09:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:19:04.033417
+2025-01-17 09:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:29:04.037198
+2025-01-17 09:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:39:04.039934
+2025-01-17 09:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:49:04.046977
+2025-01-17 09:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 09:59:04.051484
+2025-01-17 10:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:09:04.059005
+2025-01-17 10:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:19:04.057647
+2025-01-17 10:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:29:04.077123
+2025-01-17 10:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:39:04.077150
+2025-01-17 10:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:49:04.079029
+2025-01-17 10:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 10:59:04.070423
+2025-01-17 11:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:09:04.088482
+2025-01-17 11:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:19:04.093148
+2025-01-17 11:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:29:04.090248
+2025-01-17 11:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:39:04.093222
+2025-01-17 11:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:49:04.096857
+2025-01-17 11:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 11:59:04.084075
+2025-01-17 12:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:09:04.094044
+2025-01-17 12:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:19:04.084830
+2025-01-17 12:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:29:04.097863
+2025-01-17 12:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:39:04.090837
+2025-01-17 12:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:49:04.097269
+2025-01-17 12:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 12:59:04.088416
+2025-01-17 13:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:09:04.087958
+2025-01-17 13:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:19:04.085966
+2025-01-17 13:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:29:04.095604
+2025-01-17 13:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:39:04.087933
+2025-01-17 13:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:49:04.107781
+2025-01-17 13:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 13:59:04.103033
+2025-01-17 14:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:09:04.113186
+2025-01-17 14:15:44 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'Канал был закрыт.')
+2025-01-17 14:15:44 INFO event_listener.py:93: Attempting to reconnect...
+2025-01-17 14:15:49 INFO event_listener.py:52: Created named pipe yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 14:15:49 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 14:15:49 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2025-01-17 14:18:29 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-91c4c4f2-d492-11ef-b9ba-005056c00008
+2025-01-17 14:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:19:04.126886
+2025-01-17 14:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:29:04.113561
+2025-01-17 14:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:39:04.122383
+2025-01-17 14:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:49:04.118959
+2025-01-17 14:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 14:59:04.114242
+2025-01-17 15:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:09:04.129945
+2025-01-17 15:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:19:04.144418
+2025-01-17 15:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:29:04.134487
+2025-01-17 15:39:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:39:04.140342
+2025-01-17 15:49:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:49:04.148407
+2025-01-17 15:59:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 15:59:04.146037
+2025-01-17 16:09:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 16:09:04.153781
+2025-01-17 16:19:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 16:19:04.156956
+2025-01-17 16:29:04 INFO weather.py:340: Fetched new weather data at 2025-01-17 16:29:04.149030
+2025-01-17 16:30:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-17 16:30:32 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-17 16:30:33 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-17 16:30:35 DEBUG _windows.py:218: Stopping worker thread...
+2025-01-17 16:30:35 DEBUG _windows.py:201: Exiting thread
+2025-01-17 16:30:35 DEBUG _windows.py:75: Closing
+2025-01-20 07:49:27 INFO log.py:21: Yasb v1.5.3
+2025-01-20 07:49:27 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 07:49:27 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-20 07:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 07:49:30.723864
+2025-01-20 07:49:30 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-20 07:49:31 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-20 07:49:31 INFO event_listener.py:52: Created named pipe yasb-f00bae0d-d6e9-11ef-a723-005056c00008
+2025-01-20 07:49:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f00bae0d-d6e9-11ef-a723-005056c00008
+2025-01-20 07:49:31 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-20 07:49:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-20 07:49:31 DEBUG _windows.py:192: Thread started
+2025-01-20 07:49:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f00bae0d-d6e9-11ef-a723-005056c00008
+2025-01-20 07:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 07:59:30.725071
+2025-01-20 08:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:09:30.752714
+2025-01-20 08:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:19:30.746338
+2025-01-20 08:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:29:30.746910
+2025-01-20 08:34:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:34:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:34:29 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:34:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:34:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:34:54 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:35:02 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:35:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:35:03 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [30:5: margin]
+2025-01-20 08:36:37 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:36:38 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-20 08:36:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:36:38 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:36:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:36:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:36:58 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:38:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:38:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:38:57 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:39:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:39:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:39:14 ERROR errorhandler.py:105: Property: Invalid value for "CSS Level 2.1" property: 0 5 [31:5: margin]
+2025-01-20 08:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:39:30.835461
+2025-01-20 08:42:13 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-20 08:42:51 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-20 08:43:52 INFO bar_manager.py:46: Successfully loaded updated stylesheet and applied to all bars.
+2025-01-20 08:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:49:30.738446
+2025-01-20 08:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 08:59:30.750250
+2025-01-20 09:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:09:30.766336
+2025-01-20 09:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:19:30.760861
+2025-01-20 09:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:29:30.763814
+2025-01-20 09:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:39:30.767917
+2025-01-20 09:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:49:30.755672
+2025-01-20 09:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 09:59:30.760916
+2025-01-20 10:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:09:30.755437
+2025-01-20 10:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:19:30.754179
+2025-01-20 10:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:29:30.767673
+2025-01-20 10:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:39:30.776306
+2025-01-20 10:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:49:30.789351
+2025-01-20 10:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 10:59:30.803635
+2025-01-20 11:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:09:30.813112
+2025-01-20 11:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:19:30.821229
+2025-01-20 11:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:29:30.826123
+2025-01-20 11:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:39:30.838817
+2025-01-20 11:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:49:30.848977
+2025-01-20 11:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 11:59:30.866342
+2025-01-20 12:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:09:30.867062
+2025-01-20 12:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:19:30.878018
+2025-01-20 12:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:29:30.868642
+2025-01-20 12:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:39:30.877091
+2025-01-20 12:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:49:30.881363
+2025-01-20 12:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 12:59:30.881887
+2025-01-20 13:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:09:30.881236
+2025-01-20 13:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:19:30.887633
+2025-01-20 13:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:29:30.890794
+2025-01-20 13:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:39:30.880808
+2025-01-20 13:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:49:30.882138
+2025-01-20 13:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 13:59:30.904941
+2025-01-20 14:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:09:30.894703
+2025-01-20 14:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:19:30.911035
+2025-01-20 14:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:29:30.925627
+2025-01-20 14:29:31 ERROR weather.py:413: Error fetching weather data: <urlopen error [Errno 11002] getaddrinfo failed>
+2025-01-20 14:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:39:30.914420
+2025-01-20 14:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:49:30.912845
+2025-01-20 14:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 14:59:30.914870
+2025-01-20 15:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:09:30.925614
+2025-01-20 15:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:19:30.935789
+2025-01-20 15:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:29:30.952284
+2025-01-20 15:39:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:39:30.945010
+2025-01-20 15:49:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:49:30.944550
+2025-01-20 15:59:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 15:59:30.944376
+2025-01-20 16:09:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 16:09:30.960421
+2025-01-20 16:19:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 16:19:30.977814
+2025-01-20 16:29:30 INFO weather.py:340: Fetched new weather data at 2025-01-20 16:29:30.974548
+2025-01-20 16:34:09 WARNING event_listener.py:83: Pipe has been ended: (109, 'PeekNamedPipe', 'Канал был закрыт.')
+2025-01-20 16:34:09 INFO event_listener.py:93: Attempting to reconnect...
+2025-01-21 08:06:00 INFO log.py:21: Yasb v1.5.3
+2025-01-21 08:06:01 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-21 08:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:06:03.656388
+2025-01-21 08:06:03 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-21 08:06:03 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-21 08:06:04 INFO event_listener.py:52: Created named pipe yasb-6a49e735-d7b5-11ef-884f-005056c00008
+2025-01-21 08:06:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6a49e735-d7b5-11ef-884f-005056c00008
+2025-01-21 08:06:04 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-21 08:06:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-21 08:06:04 DEBUG _windows.py:192: Thread started
+2025-01-21 08:06:04 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6a49e735-d7b5-11ef-884f-005056c00008
+2025-01-21 08:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:16:03.667024
+2025-01-21 08:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:26:03.661768
+2025-01-21 08:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:36:03.673198
+2025-01-21 08:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:46:03.667514
+2025-01-21 08:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 08:56:03.687074
+2025-01-21 09:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:06:03.682716
+2025-01-21 09:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:16:03.684427
+2025-01-21 09:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:26:03.705174
+2025-01-21 09:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:36:03.701588
+2025-01-21 09:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:46:03.692514
+2025-01-21 09:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 09:56:03.718176
+2025-01-21 10:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:06:03.737048
+2025-01-21 10:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:16:03.738624
+2025-01-21 10:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:26:03.765978
+2025-01-21 10:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:36:03.767065
+2025-01-21 10:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:46:03.758555
+2025-01-21 10:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 10:56:03.756116
+2025-01-21 11:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:06:03.758890
+2025-01-21 11:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:16:03.762246
+2025-01-21 11:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:26:03.764628
+2025-01-21 11:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:36:03.780449
+2025-01-21 11:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:46:03.790194
+2025-01-21 11:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 11:56:03.798206
+2025-01-21 12:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:06:03.791793
+2025-01-21 12:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:16:03.807640
+2025-01-21 12:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:26:03.805911
+2025-01-21 12:26:08 ERROR weather.py:413: Error fetching weather data: <urlopen error [Errno 11002] getaddrinfo failed>
+2025-01-21 12:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:36:03.810083
+2025-01-21 12:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:46:03.804238
+2025-01-21 12:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 12:56:03.819870
+2025-01-21 13:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:06:03.846688
+2025-01-21 13:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:16:03.839212
+2025-01-21 13:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:26:03.839648
+2025-01-21 13:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:36:03.853155
+2025-01-21 13:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:46:03.848941
+2025-01-21 13:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 13:56:03.858166
+2025-01-21 14:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:06:03.859111
+2025-01-21 14:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:16:03.863561
+2025-01-21 14:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:26:03.879419
+2025-01-21 14:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:36:03.896474
+2025-01-21 14:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:46:03.924143
+2025-01-21 14:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 14:56:03.925364
+2025-01-21 15:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:06:03.922495
+2025-01-21 15:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:16:03.915898
+2025-01-21 15:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:26:03.930177
+2025-01-21 15:36:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:36:03.948504
+2025-01-21 15:46:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:46:03.958288
+2025-01-21 15:56:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 15:56:03.972106
+2025-01-21 16:06:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 16:06:03.977436
+2025-01-21 16:16:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 16:16:03.985656
+2025-01-21 16:26:03 INFO weather.py:340: Fetched new weather data at 2025-01-21 16:26:03.973039
+2025-01-22 07:57:43 INFO log.py:21: Yasb v1.5.3
+2025-01-22 07:57:44 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-22 07:57:47 INFO weather.py:340: Fetched new weather data at 2025-01-22 07:57:47.531874
+2025-01-22 07:57:47 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-22 07:57:47 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-22 07:57:48 INFO event_listener.py:52: Created named pipe yasb-6d0a82ff-d87d-11ef-a6db-005056c00008
+2025-01-22 07:57:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6d0a82ff-d87d-11ef-a6db-005056c00008
+2025-01-22 07:57:48 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-22 07:57:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-22 07:57:48 DEBUG _windows.py:192: Thread started
+2025-01-22 07:57:48 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6d0a82ff-d87d-11ef-a6db-005056c00008
+2025-01-22 08:07:47 INFO weather.py:340: Fetched new weather data at 2025-01-22 08:07:47.529597
+2025-01-22 08:17:47 INFO weather.py:340: Fetched new weather data at 2025-01-22 08:17:47.530219
+2025-01-22 08:21:13 INFO log.py:21: Yasb v1.5.3
+2025-01-22 08:21:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-01-22 08:21:16 INFO weather.py:340: Fetched new weather data at 2025-01-22 08:21:16.063416
+2025-01-22 08:21:16 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-01-22 08:21:16 INFO app_bar.py:103: Bar Created on Screen: VG2791PEF [Bar Height: 34px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-01-22 08:21:16 INFO event_listener.py:52: Created named pipe yasb-b47ea379-d880-11ef-900b-005056c00008
+2025-01-22 08:21:16 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b47ea379-d880-11ef-900b-005056c00008
+2025-01-22 08:21:16 INFO watcher.py:39: Created file watcher for path C:\Users\user\.config\yasb
+2025-01-22 08:21:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-01-22 08:21:16 DEBUG _windows.py:192: Thread started
+2025-01-22 08:21:16 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b47ea379-d880-11ef-900b-005056c00008
+2025-01-22 08:31:16 INFO weather.py:340: Fetched new weather data at 2025-01-22 08:31:16.052155

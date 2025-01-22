@@ -3,5 +3,3 @@
 	email = doesdeos@gmail.com
 [core]
 	editor = \"C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
-[credential "https://git.karotazh.ru"]
-	provider = generic
